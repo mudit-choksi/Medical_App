@@ -1,4 +1,4 @@
-# Medical_App-TruffleHealth
+# Medical_App
 ## This is a demo application using Node JS and Express, about how to parse the patient's information.
 
 Here is URL for the operations for this application: 
